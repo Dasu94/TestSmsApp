@@ -1,0 +1,5 @@
+hms/smsApp/repository/DBConnection.class
+hms/smsApp/repository/BookRepository.class
+hms/smsApp/smsConnector/SimpleClient.class
+hms/smsApp/repository/BookRepositoryMysqlDBlmpl.class
+hms/smsApp/domain/Book.class
